@@ -1,2 +1,2 @@
 # GoAirlines
-Air Ticketing &amp; Reservation System (Web-App)
+AIR RESERVATIONS & TICKETING SYSTEM (Web-App)
